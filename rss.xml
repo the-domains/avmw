@@ -4,11 +4,11 @@
         <description><![CDATA[Your A/V Partner - Anyhwere, Anytime, Any Need.  ]]></description>
         <link>https://thegrid.ai/avmw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 20:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 21:02:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/avmw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Testing this site out.  ]]></title>
-            <description><![CDATA[<h1>Testing this site out.  </h1>]]></description>
+            <description><![CDATA[<article><h1>Testing this site out.  </h1><p>Does this site really work?  Or is the Grid and crock of crap?  </p></article>]]></description>
             <link>https://thegrid.ai/avmw/testing-this-site-out/index.html</link>
             <guid isPermaLink="false">a76f1298-dabd-4f48-b210-54b9e8055c04</guid>
             <pubDate>Tue, 08 Mar 2016 20:36:59 GMT</pubDate>
@@ -20,7 +20,7 @@
 audiovisual management and production. </p></article>]]></description>
             <link>https://thegrid.ai/avmw/who-fuller-audiovisual-management-is/index.html</link>
             <guid isPermaLink="false">b9e5fbe3-dd91-4e19-bda1-896c88611ccc</guid>
-            <pubDate>Tue, 08 Mar 2016 20:04:04 GMT</pubDate>
+            <pubDate>Tue, 08 Mar 2016 21:02:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
