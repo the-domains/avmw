@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[avmw]]></title>
-        <description><![CDATA[avmw]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Your A/V Partner - Anyhwere, Anytime, Any Need.  ]]></title>
+        <description><![CDATA[Your A/V Partner - Anyhwere, Anytime, Any Need.  ]]></description>
+        <link>https://thegrid.ai/avmw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 20:04:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 20:37:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/avmw/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing this site out.  ]]></title>
+            <description><![CDATA[<h1>Testing this site out.  </h1>]]></description>
+            <link>https://thegrid.ai/avmw/testing-this-site-out/index.html</link>
+            <guid isPermaLink="false">a76f1298-dabd-4f48-b210-54b9e8055c04</guid>
+            <pubDate>Tue, 08 Mar 2016 20:36:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who Fuller AudioVisual Management Is...]]></title>
             <description><![CDATA[<article><h1>Who Fuller AudioVisual Management Is...</h1><p>Fuller Audiovisual Management Worldwide (AVMW) is a full-service audiovisual
  management and consulting company.  Our leadership has more than 45 years of combined experience in 
 audiovisual management and production. </p></article>]]></description>
-            <link>undefinedwho-fuller-audiovisual-management-is/index.html</link>
+            <link>https://thegrid.ai/avmw/who-fuller-audiovisual-management-is/index.html</link>
             <guid isPermaLink="false">b9e5fbe3-dd91-4e19-bda1-896c88611ccc</guid>
             <pubDate>Tue, 08 Mar 2016 20:04:04 GMT</pubDate>
         </item>
